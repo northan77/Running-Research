@@ -64,9 +64,19 @@ Each pod provides motion measurements that typically include:
 - gyroscope (3 axis)
 
 Optional or future outputs may include:
-- magnetometer
+- Pressure sensor (hills)
+
 - temperature
+
 - battery status
+
+- Onboard memory
+
+- Smaller RF antenna
+
+- Battery management
+
+  
 
 The pods stream raw measurements without interpretation.
 
